@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/As-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coris cine API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Coris cine FrontEnd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test-project-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/billing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/full_web_angular" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rail_billing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/script cameroun" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web_lite_frontend_koajs" vcs="Git" />
+  </component>
+</project>
